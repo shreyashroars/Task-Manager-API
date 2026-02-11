@@ -110,3 +110,11 @@ replay_pid*
 application-local.properties
 application-dev.properties
 # Keep application.properties in version control
+
+### Learning & Documentation Guides ###
+ARCHITECTURE.md
+GETALLTASKS_EXPLAINED.md
+GITHUB_GUIDE.md
+LOMBOK_EXPLAINED.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
